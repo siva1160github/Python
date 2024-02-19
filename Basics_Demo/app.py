@@ -1,1 +1,1 @@
-print("Hello Monday")
+print("Hello Monday which is not a manic day")
